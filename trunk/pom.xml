@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.emorozov</groupId>
-	<artifactId>jirareqmatrix</artifactId>
+	<artifactId>jirabulkclone</artifactId>
 	<version>1.0.0</version>
 	<packaging>jar</packaging>
 
-	<name>jirareqmatrix</name>
+	<name>jirabulkclone</name>
 	<url>http://emorozov.wordpress.com</url>
 
 	<properties>

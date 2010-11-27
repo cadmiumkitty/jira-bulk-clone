@@ -31,12 +31,12 @@ How to run
 2. Unpack the utility into a directory of your choice
 
 3. Run: 
-   java -jar JiraBulkClone.jar <url> <username> <password> 
+   java -jar jirabulkclone-1.0.0.jar <url> <username> <password> 
    <project key> <filter name> 
    <from component name> <to component name>
 
    Example:
-   java -jar jirareqmatrix-1.0.0.jar 
+   java -jar jirabulkclone-1.0.0.jar 
    http://localhost:8080/rpc/soap/jirasoapservice-v2 
    myusername mypassword TST "All Bonds" BONDS STOCKS
 
