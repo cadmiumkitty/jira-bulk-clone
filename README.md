@@ -21,7 +21,7 @@ component).
 
 Unpack the utility into a directory of your choice
 
-Run
+Run:
 
 ``` 
 java -jar jirabulkclone-1.0.0.jar <url> <username> <password> <project key> <filter name> <from component name> <to component name>
